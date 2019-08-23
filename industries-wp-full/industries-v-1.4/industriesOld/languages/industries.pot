@@ -1,0 +1,860 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Industries version 1.0\n"
+"POT-Creation-Date: 2016-12-08 15:22+0500\n"
+"PO-Revision-Date: 2017-01-31 16:10+0500\n"
+"Last-Translator: amir <amirkhan0617@gmail.com>\n"
+"Language-Team: Theme Kalia <muhibbur@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;_n;_x\n"
+"X-Poedit-SearchPath-0: F:\\xampp\\htdocs\\test_work\\industries\\wp-content"
+"\\themes\\industries\n"
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/404.php:11
+msgid "Search Keywords."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/404.php:16
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes/faqs_1.php:27
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes/faqs_2.php:22
+msgid "Search..."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/404.php:24
+msgid "404"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/404.php:25
+msgid "Opps! You’ve got the wrong page"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/404.php:28
+msgid ""
+"Please check your URL is correct or not, either you can go back to the home "
+"page of the"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/404.php:29
+msgid "Industries or contact our support team."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/404.php:32
+msgid "Back To Home"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/archive.php:32
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/author.php:32
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/category.php:31
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/index.php:43
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/page.php:31
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/search.php:31
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/single.php:35
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/tag.php:32
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/tpl-visual_composer.php:26
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/archive-product.php:48
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/single-product.php:38
+msgid "share"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/blog.php:14
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:85
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes/blog_grid_view.php:30
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes/blog_list_view.php:28
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes/latest_news.php:38
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/single.php:74
+msgid "by"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/blog.php:17
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes/blog_grid_view.php:33
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes/blog_list_view.php:31
+msgid "Continue Reading..."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/comments.php:36
+msgid "Comment navigation"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/comments.php:37
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/comments.php:42
+msgid "Comments are closed."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/comments.php:51
+msgid "Add a Comment"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/footer.php:19
+msgid "Terms & Conditions"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/footer.php:20
+msgid "Privacy Policy"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/functions.php:34
+msgid "Main Menu"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/functions.php:35
+msgid "Topbar Menu"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/functions.php:63
+msgid "Default Sidebar"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/functions.php:65
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/functions.php:84
+msgid "Widgets in this area will be shown on the right-hand side."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/functions.php:72
+msgid "Footer Sidebar"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/functions.php:74
+msgid "Widgets in this area will be shown in Footer Area."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/functions.php:82
+msgid "Blog Listing"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/functions.php:185
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/functions.php:186
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/functions.php:192
+msgid "on"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/header.php:60
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/header.php:62
+msgid "Industries"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/header.php:73
+msgid "Address :"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/header.php:81
+msgid "Call Us :"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/header.php:81
+msgid "Mail Us :"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/header.php:90
+msgid "Office Time :"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/header.php:125
+msgid "GET A QUOTE"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/header.php:130
+msgid "Search"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:25
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:69
+msgid "All Categories"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:49
+msgid "No Sidebar"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:116
+msgid "Home"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:164
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:165
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:166
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:167
+msgid "Archive for "
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:168
+msgid "Search Results for "
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:169
+msgid "404 - Not Found"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:187
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:214
+msgid "You must agreed the policy"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:224
+msgid "Registration Successful - An email is sent"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:228
+msgid "Username or email already exists.  Password inherited."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:241
+msgid "commenter"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:252
+msgid "Reply"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:282
+msgid "Name"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:283
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:280
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes_old/contact_form.php:27
+msgid "Email"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:285
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:297
+msgid "Your Review..."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:300
+msgid "Your email address will not be published."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:305
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:306
+msgid "Cancel reply"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:307
+msgid "submit now "
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:589
+msgid "Poor"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:589
+msgid "Satisfactory"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:589
+msgid "Good"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:589
+msgid "Better"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:589
+msgid "Awesome"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:611
+#, php-format
+msgid "Average Rating %s"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:651
+msgid "Loading..."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/functions.php:700
+msgid "logo"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:10
+msgid "Industries Recent Posts"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:10
+msgid "Show the recent posts"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:54
+msgid "Latest News"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:59
+msgid "Title: "
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:63
+msgid "No. of Posts:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:68
+msgid "Category"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:101
+msgid "Industries About Us"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:101
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:176
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:305
+msgid "Show the information about company"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:150
+msgid "Image Url:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:151
+msgid "About Us"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:154
+msgid "Content:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:158
+msgid "Show Social Icons:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:176
+msgid "Industries Contact Detail"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:267
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:359
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:472
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:578
+msgid "Title:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:268
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:360
+msgid "Title"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:271
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes/contact_info.php:17
+msgid "Address:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:275
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes_old/appointment.php:26
+msgid "Phone:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:276
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes_old/contact_form.php:28
+msgid "Phone"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:279
+msgid "Email:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:283
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes/contact_info.php:33
+msgid "Fax:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:284
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes_old/contact_form.php:29
+msgid "Fax"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:287
+msgid "Time:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:288
+msgid "Time"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:305
+msgid "Subscribe Us"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:325
+msgid "Email address"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:363
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:371
+msgid "Description:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:367
+msgid "Form Id:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:368
+msgid "Form Id"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:387
+msgid "Industries Contact Us Sidebar"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:387
+msgid "Show the info Sidebar Contact Us"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:457
+msgid "Contact Us"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:476
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:499
+msgid "Designation:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:477
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:500
+msgid "Designation"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:480
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:503
+msgid "Image Link:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:481
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:504
+msgid "Image link here"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:484
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:507
+msgid "Name:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:485
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:508
+msgid "Name here"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:488
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:511
+msgid "Phone Number:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:489
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:512
+msgid "Phone Number here"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:492
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:515
+msgid "Email Address:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:493
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:516
+msgid "Email Address here"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:531
+msgid "Industries Our Brochures"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:531
+msgid "Show the info Our Brochures"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:546
+msgid "PDF"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:546
+msgid "Our Brouchure.pdf"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:547
+msgid "TXT"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:547
+msgid "Our Brouchure.txt"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:572
+msgid "Our Brochures"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:582
+msgid "PDF Link:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:583
+msgid "PDF link here"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:586
+msgid "Work Doc Link:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/library/widgets.php:587
+msgid "Word link here"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/loader.php:149
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/loader.php:150
+msgid "Theme Options"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/loader.php:153
+msgid "Facebook"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/loader.php:153
+msgid "Twitter"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/loader.php:153
+msgid "Dribble"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/loader.php:153
+msgid "Github"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/loader.php:154
+msgid "Flickr"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/loader.php:154
+msgid "Google+"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/loader.php:154
+msgid "Youtube"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes/about_history.php:50
+msgid "Front Desk"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes/contact_info.php:25
+msgid "Call Us:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes/contact_info.php:25
+msgid "Mail Us:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes/latest_news.php:41
+msgid "CONTINUE READING..."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes/our_achievments.php:25
+msgid "“"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes/our_achievments.php:27
+msgid "”"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes/our_clients.php:12
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes_old/clients.php:14
+msgid "image"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes/request_a_call_back.php:13
+msgid "Note:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes/testimonial_mixitup.php:78
+msgid "About:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes_old/appointment.php:12
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes_old/banner.php:6
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes_old/banner_three.php:7
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes_old/banner_two.php:8
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes_old/checkout_services.php:41
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes_old/feature_services.php:30
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes_old/feature_services_2.php:12
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes_old/history.php:26
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes_old/what_we_do.php:27
+msgid "Image"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes_old/contact_form.php:30
+msgid "Website"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/modules/shortcodes_old/product_carousel.php:38
+msgid "VIEW DETAILS"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:912
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2618
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1019
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3594
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3594
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/plugins.php:63
+msgid "Theme Support (Required)"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/plugins.php:74
+msgid "Revolution Slider"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/plugins.php:85
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/plugins.php:96
+msgid "Contact Form 7"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/thirdparty/tgm-plugin-activation/plugins.php:101
+msgid "Woocommerce"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/vc_map.php:6
+msgid "bbPress Forums"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/vc_map.php:9
+msgid "Jollyall"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/vc_map.php:16
+msgid "Forum"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/vc_map.php:179
+msgid "Container"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/includes/vc_map.php:182
+msgid "Choose whether you want to add a container before row or not."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/search.php:73
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/searchform.php:3
+msgid "Search...."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/sidebar.php:15
+msgid "by : "
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/sidebar.php:17
+msgid "in : "
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/sidebar.php:19
+msgid " 123 Likes "
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/sidebar.php:21
+msgid " Print "
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/sidebar.php:35
+msgid "Read More"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/single.php:114
+msgid "Pages: "
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/cart/cart-totals.php:24
+msgid "Subtotal"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/cart/cart-totals.php:61
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/cart/cart.php:30
+msgid "Total"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/cart/cart.php:26
+msgid "Preview"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/cart/cart.php:27
+msgid "Product"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/cart/cart.php:71
+msgid "Available on backorder"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/cart/cart.php:110
+msgid "Remove this item"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/cart/cart.php:165
+msgid "Shipping"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/checkout/form-checkout.php:45
+msgid "Your order"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/checkout/payment.php:34
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/checkout/payment.php:34
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/checkout/payment.php:41
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/content-product.php:92
+msgid "Add to Cart"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/content-single-product.php:67
+msgid "Product Overview:"
+msgstr ""
+
+#: F:\xampp\htdocs\test_work\industries\wp-content\themes\industries/woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""

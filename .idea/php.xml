@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/AppData/Roaming/Composer/vendor/bin/phpcs" />
+    </phpcs_settings>
+  </component>
+  <component name="PhpProjectServersManager">
+    <servers>
+      <server host="localhost" id="7aac5d65-c1cf-484a-8a81-42dc6b13e182" name="localhost">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/data" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+</project>
