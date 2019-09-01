@@ -2776,7 +2776,11 @@ select.g-select[option="selected"] {
 ***************************/
 .footer {
   position: relative;
-  background: #141414;
+  background: #3c3c3b;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
 }
 
 .footer-widget.about-widget:before {
@@ -2977,7 +2981,32 @@ select.g-select[option="selected"] {
   color: #fac012;
   transition: .3s ease;
 }
+.wrapperFooter{
+  max-width: 1200px;
+  display: flex;
+  width: 100%;
+  padding: 80px 10px 110px 10px;
+  justify-content: space-between;
+  align-items: flex-start;
+  color: #fff;
+}
+.footerBlock3{
+  display: flex;
+  width: 33%;
+  padding: 10px;
+  align-items: flex-start;
+}
+.footerBlock3 img{
+  margin-right: 20px;
+}
+.footer a{
+  text-decoration: underline;
+  color: #fff;
 
+}
+.footer a:hover{
+  color: #c20b0d;
+}
 
 /************************** 
 * Inner Banner styles 
@@ -5925,6 +5954,19 @@ label.error {
 .imageSliderPartners{
   max-height: 140px;
   margin: 5px 20px;
+}
+
+.wrapperPartners .rev_slider_wrapper .tp-leftarrow{
+  background:url(images/slider/sliderArrowLeft.png) repeat top left; ;
+}
+.wrapperPartners .rev_slider_wrapper .tp-leftarrow:before{
+  content: "";
+}
+.wrapperPartners .rev_slider_wrapper  .tp-rightarrow{
+  background:url(images/slider/sliderArrowRight.png) repeat top left; ;
+}
+.wrapperPartners .rev_slider_wrapper .tp-rightarrow:before{
+  content: "";
 }
 .titleBottomSpace{
   margin-bottom: 2px;

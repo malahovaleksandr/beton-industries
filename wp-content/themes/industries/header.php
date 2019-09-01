@@ -51,10 +51,15 @@
                         <div class="upper-column info-box">
                             <div class="icon-box"><span class="fa fa-phone"></span></div>
                             <div class="headerIconText">
-                                <?php esc_html_e('Телефон :', 'industries'); ?> <?php echo nl2br(wp_kses_post(industries_set($options,
-                                        'phone_no'))); ?>
-                                <br><?php esc_html_e('Эл. почта :', 'industries'); ?> <?php echo balanceTags(industries_set($options,
-                                        'email')); ?>
+                                <?php esc_html_e('Телефон :', 'industries'); ?>
+                                <a href="tel:<?php echo nl2br(wp_kses_post(industries_set($options, 'phone_no'))); ?> ">
+                                    <?php echo nl2br(wp_kses_post(industries_set($options, 'phone_no'))); ?>
+                                </a>
+                                <br><?php esc_html_e('Эл. почта :', 'industries'); ?>
+                                <a href="mailto:<?php echo balanceTags(industries_set($options,'email')); ?> ">
+                                    <?php echo balanceTags(industries_set($options,'email')); ?>
+                                </a>
+
                             </div>
                         </div>
                     <?php endif; ?>

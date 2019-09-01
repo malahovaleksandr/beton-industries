@@ -284,6 +284,9 @@
 	.mainmenu-holder .nav-header > ul > li.active > a {
 		border-bottom: 0px;
 	}
+	.wrapperFooter{
+		flex-direction: row;
+	}
 }
 
 /*Fix box layout*/
@@ -294,13 +297,24 @@
 		overflow: hidden;
 	}
 }
-
+@media (max-width: 900px) {
+	.imageBlockPropose{
+		display: none;
+	}
+	.blockProposePrice{
+		width: 100%;
+	}
+	.proposeBakgroundImage{
+		z-index: -1;
+	}
+}
 @media (min-width: 992px) and (max-width: 1199px) {
 	.boxed_wrapper.active_boxlayout {
 		width: 980px;
 		margin:0 auto;
 		overflow: hidden;
 	}
+
 }
 @media (min-width: 768px) and (max-width: 991px) {
 	.boxed_wrapper.active_boxlayout {

@@ -57,7 +57,6 @@
             <div class="benefitsBlock">
                 <img
                 src="<?php echo esc_url(get_template_directory_uri() . '/images/benefits/benefits1.png'); ?>"
-
                 alt="Преимущества">
 
                 <p>Собственное <br/>производство</p>

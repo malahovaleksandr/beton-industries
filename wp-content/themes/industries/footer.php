@@ -1,33 +1,44 @@
 <?php $options = get_option('wp_industries'.'_theme_options');?>
-
 	<?php if(!(industries_set($options, 'hide_whole_footer'))):?>
-	<footer class="footer has-black-color-overlay has-dark-texture">
-        <?php if ( is_active_sidebar( 'footer-sidebar' ) ) { ?>
-        <div class="container">
-            <div class="row">
-               <?php dynamic_sidebar( 'footer-sidebar' ); ?>
-    		</div><!-- /.row -->
-        </div><!-- /.container -->
-        <?php } ?>
-    </footer><!-- /.footer -->
+	<footer class="footer">
+        <div class="wrapperFooter">
+            <div class="footerBlock3">
+                <img
+                        src="<?php echo esc_url(get_template_directory_uri() . '/images/footer/image1.png'); ?>"
+                        alt="Преимущества"/>
+                    <div class="headerIconText">
+                        <?php esc_html_e('Адрес :', 'industries'); ?> <?php echo nl2br(wp_kses_post(industries_set($options,
+                            'address'))); ?>
+                    </div>
+            </div>
+            <div class="footerBlock3">
+                <img
+                        src="<?php echo esc_url(get_template_directory_uri() . '/images/footer/image2.png'); ?>"
+                        alt="Преимущества"/>
+                <div class="headerIconText">
+                     <?php esc_html_e('Телефон :', 'industries'); ?>
+                     <a href="tel:<?php echo nl2br(wp_kses_post(industries_set($options, 'phone_no'))); ?> ">
+                         <?php echo nl2br(wp_kses_post(industries_set($options, 'phone_no'))); ?>
+                     </a>
+                    <br>
+                    <?php esc_html_e('Эл. почта :', 'industries'); ?>
+                    <a href="mailto:<?php echo balanceTags(industries_set($options,'email')); ?> ">
+                        <?php echo balanceTags(industries_set($options,'email')); ?>
+                    </a>
+                </div>
+            </div>
+            <div class="footerBlock3">
+                <img
+                        src="<?php echo esc_url(get_template_directory_uri() . '/images/footer/image3.png'); ?>"
+                        alt="Преимущества"/>
+                <div class="headerIconText">
+                    <?php esc_html_e('Режим работы :', 'industries'); ?> <?php echo balanceTags(industries_set($options,
+                        'office_time')); ?>
+                </div>
+            </div>
+        </div>
+    </footer>
     <?php endif;?>
-    
-    <?php if(!(industries_set($options, 'hide_bottom_footer'))):?>
-    <section class="footer-bottom">
-        <div class="container">
-            <div class="pull-left get-text">
-                <ul>
-                <?php if(industries_set($options, 'condition')):?><li><a href="<?php echo esc_url(industries_set($options, 'condition'));?>"><?php esc_html_e('Terms & Conditions', 'industries');?></a></li><?php endif;?>
-                <?php if(industries_set($options, 'privacy')):?><li><a href="<?php echo esc_url(industries_set($options, 'privacy'));?>"><?php esc_html_e('Privacy Policy', 'industries');?></a></li><?php endif;?>
-                </ul>
-            </div><!-- /.pull-right -->
-            <div class="pull-right copy-text">
-                <p><?php echo wp_kses_post(industries_set($options, 'copyright'));?></p>
-            </div><!-- /.pull-left -->
-        </div><!-- /.container -->
-    </section><!-- /.footer-bottom -->
-    <?php endif;?>
-    
 </div>
 <div class="buttonPopupMail">Оставить заявку</div>
 <div id="contact_form_pop">

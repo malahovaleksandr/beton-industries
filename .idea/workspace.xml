@@ -1,86 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6d1704b-50ba-4073-bd32-5d2c49e6d1be" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/images/slider/gallerySlide1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/images/slider/gallerySlide2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/images/slider/sliderArrowLeft.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/images/slider/sliderArrowRight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/images/sliderPartners/Layer 10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/images/sliderPartners/Layer 11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/images/sliderPartners/Layer 7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/images/sliderPartners/Layer 8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/images/sliderPartners/Layer 9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-10-100x50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-10-150x94.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-10-170x94.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-10-60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-10-75x75.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-10-90x90.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-11-100x50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-11-150x84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-11-60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-11-75x75.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-11-90x84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-7-100x50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-7-150x35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-7-60x35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-7-75x35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-7-90x35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-8-100x50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-8-150x76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-8-170x76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-8-180x76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-8-60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-8-75x75.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-8-90x76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-9-100x50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-9-150x110.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-9-170x110.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-9-180x110.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-9-60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-9-75x75.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-9-90x90.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/Layer-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide1-100x50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide1-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide1-170x170.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide1-180x180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide1-270x225.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide1-270x230.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide1-300x217.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide1-300x300.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide1-370x190.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide1-370x210.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide1-60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide1-75x75.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide1-90x90.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide2-100x50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide2-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide2-170x170.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide2-180x180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide2-270x225.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide2-270x230.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide2-300x217.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide2-300x300.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide2-370x190.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide2-370x210.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide2-60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide2-75x75.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide2-90x90.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlide2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlider1-100x50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2019/08/gallerySlider2-100x50.png" afterDir="false" />
+    <list default="true" id="f6d1704b-50ba-4073-bd32-5d2c49e6d1be" name="Default" comment="some changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/industries/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/industries/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/industries/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/industries/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/industries/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/industries/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/industries/images/slider/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/industries/images/slider/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/industries/images/slider/3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/industries/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/industries/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/industries/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/industries/style.css" afterDir="false" />
     </list>
@@ -119,6 +44,12 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.HTML" />
   </component>
   <component name="RecentsManager">
@@ -188,8 +119,23 @@
       <workItem from="1566554999880" duration="2548000" />
       <workItem from="1566558218712" duration="141000" />
       <workItem from="1566924747077" duration="4734000" />
-      <workItem from="1567318377588" duration="848000" />
+      <workItem from="1567318377588" duration="4002000" />
     </task>
+    <task id="LOCAL-00001" summary="added images">
+      <created>1567319262831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567319262831</updated>
+    </task>
+    <task id="LOCAL-00002" summary="some changes">
+      <created>1567319388674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567319388674</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +156,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added images" />
-    <option name="LAST_COMMIT_MESSAGE" value="added images" />
+    <MESSAGE value="some changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="some changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -221,7 +168,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/wp-content/themes/industries/index.php</url>
-          <line>186</line>
+          <line>185</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
