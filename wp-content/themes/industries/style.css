@@ -543,9 +543,7 @@ ul.post-pagination li a {
   -o-transition:all 500ms ease;
   z-index:5;
 }
-.logo{
-  float: left;
-}
+
 .main-header .header-upper .logo img{
   position:relative;
   display:inline-block;
@@ -573,6 +571,7 @@ ul.post-pagination li a {
     color: #1c1c1c;
     min-width: 200px;
     max-width: 250px;
+  margin:0 25px;
 }
 
 .main-header .info-box .icon-box{
@@ -6008,8 +6007,36 @@ label.error {
   cursor: pointer;
   box-shadow: -3.508px 11.476px 40px 0px rgba(206, 36, 39, 0.42);
 }
+/*+++++++++++=============
+Gallery section
+=============================*/
+.gallerySection{
+  width: 100%;
+  padding: 10px;
+  background: #fff;
+}
 
+/*+++++++++++==========================================*/
 
+/*+++++++++++=============
+Partners section
+=============================*/
+.partnersSection{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.wrapperPartners{
+  width: 100%;
+  max-width: 1200px;
+}
+.wrapperPartners .titleClass{
+  font-size: 40px;
+  color: #494949;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+/*+++++++++++==========================================*/
 
 .wrapLinkPrice a:before{
   content: '';

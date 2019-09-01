@@ -168,47 +168,13 @@
         </div>
 
     </section>
-    <section>
-        <div class="com-sm-12">
-            <div class="titleClass">Наши партнеры</div>
-            <div class="sliderClients">
-                <image class="imageSliderPartners"
-                       src="<?= $_SERVER['SCRIPT_URI'] . 'wp-content/uploads/partners/1.gif' ?>"
-                       alt="partners1"></image>
-                <image class="imageSliderPartners"
-                       src="<?= $_SERVER['SCRIPT_URI'] . 'wp-content/uploads/partners/2.png' ?>"
-                       alt="partners2"></image>
-                <image class="imageSliderPartners"
-                       src="<?= $_SERVER['SCRIPT_URI'] . 'wp-content/uploads/partners/3.png' ?>"
-                       alt="partners4"></image>
-                <image class="imageSliderPartners"
-                       src="<?= $_SERVER['SCRIPT_URI'] . 'wp-content/uploads/partners/4.png' ?>"
-                       alt="partners5"></image>
-                <image class="imageSliderPartners"
-                       src="<?= $_SERVER['SCRIPT_URI'] . 'wp-content/uploads/partners/5.png' ?>"
-                       alt="partners6"></image>
-                <image class="imageSliderPartners"
-                       src="<?= $_SERVER['SCRIPT_URI'] . 'wp-content/uploads/partners/6.JPG' ?>"
-                       alt="partners7"></image>
-                <image class="imageSliderPartners"
-                       src="<?= $_SERVER['SCRIPT_URI'] . 'wp-content/uploads/partners/7.jpg' ?>"
-                       alt="partners8"></image>
-                <image class="imageSliderPartners"
-                       src="<?= $_SERVER['SCRIPT_URI'] . 'wp-content/uploads/partners/8.jpg' ?>"
-                       alt="partners9"></image>
-                <image class="imageSliderPartners"
-                       src="<?= $_SERVER['SCRIPT_URI'] . 'wp-content/uploads/partners/9.jpg' ?>"
-                       alt="partners10"></image>
-                <image class="imageSliderPartners"
-                       src="<?= $_SERVER['SCRIPT_URI'] . 'wp-content/uploads/partners/10.jpg' ?>"
-                       alt="partners11"></image>
-                <image class="imageSliderPartners"
-                       src="<?= $_SERVER['SCRIPT_URI'] . 'wp-content/uploads/partners/11.jpg' ?>"
-                       alt="partners12"></image>
-                <image class="imageSliderPartners"
-                       src="<?= $_SERVER['SCRIPT_URI'] . 'wp-content/uploads/partners/12.jpg' ?>"
-                       alt="partners13"></image>
-            </div>
+<section class="gallerySection">
+   <?= do_shortcode('[rev_slider alias="gallerySlider"]');?>
+</section>
+    <section class="partnersSection">
+        <div class="wrapperPartners">
+            <div class="titleClass">партнеры</div>
+            <?= do_shortcode('[rev_slider alias="sliderPartners"]');?>
         </div>
     </section>
 <div class="container">
