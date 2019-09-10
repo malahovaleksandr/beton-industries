@@ -464,6 +464,10 @@ function mobileNavToggler () {
 			$('.mainmenu-holder .nav-header').toggleClass('closed opened');
 			return false;
 		});
+ 		$('.mainmenu-holder .showMenu').on('click', function () {
+			$('.mainmenu-holder .navigation').toggleClass('opened');
+			return false;
+		});
 		$('.mainmenu-holder .nav-header .navigation li.dropdown').children('a').append(function () {
 			return '<button class="dropdown-expander"><i class="fa fa-bars"></i></button>';    			
 		});

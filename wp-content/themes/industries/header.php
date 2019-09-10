@@ -30,18 +30,17 @@
         <div class="header-upper">
             <div class="container">
                 <div class="pull-right upper-right clearfix flexVerticalCenter">
-                    <div class="logo">
+                    <div class="logo info-box">
                         <a href="<?php echo esc_url(home_url('/')); ?>"><img
                                     src="<?php echo esc_url(get_template_directory_uri() . '/images/logo/logo.png'); ?>"
                                     alt="<?php esc_html_e('Industries', 'industries'); ?>"></a>
                     </div>
                     <?php if (industries_set($options, 'address')): ?>
-                        <!--Info Box-->
-                        <div class="upper-column info-box text-header">
+                        <div class="upper-column info-box">
                             <div class="icon-box"><span class="fa fa-map-marker"></span></div>
                             <div class="headerIconText">
-                                <?php esc_html_e('Адрес :', 'industries'); ?> <?php echo nl2br(wp_kses_post(industries_set($options,
-                                        'address'))); ?>
+<!--                                --><?php //esc_html_e('Адрес :', 'industries'); ?>
+                                <?php echo nl2br(wp_kses_post(industries_set($options, 'address'))); ?>
                             </div>
                         </div>
                     <?php endif; ?>
@@ -51,11 +50,12 @@
                         <div class="upper-column info-box">
                             <div class="icon-box"><span class="fa fa-phone"></span></div>
                             <div class="headerIconText">
-                                <?php esc_html_e('Телефон :', 'industries'); ?>
+<!--                                --><?php //esc_html_e('Телефон :', 'industries'); ?>
                                 <a href="tel:<?php echo nl2br(wp_kses_post(industries_set($options, 'phone_no'))); ?> ">
                                     <?php echo nl2br(wp_kses_post(industries_set($options, 'phone_no'))); ?>
                                 </a>
-                                <br><?php esc_html_e('Эл. почта :', 'industries'); ?>
+                                <br>
+<!--                                --><?php //esc_html_e('Эл. почта :', 'industries'); ?>
                                 <a href="mailto:<?php echo balanceTags(industries_set($options,'email')); ?> ">
                                     <?php echo balanceTags(industries_set($options,'email')); ?>
                                 </a>
@@ -69,7 +69,8 @@
                         <div class="upper-column info-box">
                             <div class="icon-box"><span class="fa fa-clock-o"></span></div>
                             <div class="headerIconText">
-                                <?php esc_html_e('Режим работы :', 'industries'); ?> <?php echo balanceTags(industries_set($options,
+<!--                                --><?php //esc_html_e('Режим работы :', 'industries'); ?>
+                                <?php echo balanceTags(industries_set($options,
                                         'office_time')); ?>
                         </div>
                     <?php endif; ?>

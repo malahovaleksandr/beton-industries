@@ -395,6 +395,10 @@ input,textarea {font-family: 'roboto-light';display: block; font-size: 16px; lin
 .page-navigation {
   margin-top: 50px;
 }
+.navigation.opened{
+  opacity: 1;
+  left: 0;
+}
 .page-navigation li {
   display: inline;
 }
@@ -542,6 +546,9 @@ ul.post-pagination li a {
   -ms-transition:all 500ms ease;
   -o-transition:all 500ms ease;
   z-index:5;
+  font-size: 14px;
+  line-height: 1.6;
+  font-family: "Lato", sans-serif;
 }
 
 .main-header .header-upper .logo img{
@@ -567,13 +574,14 @@ ul.post-pagination li a {
    display: flex;
   justify-content: center;
   align-items: center;
-    font-size: 14px;
     color: #1c1c1c;
     min-width: 200px;
     max-width: 250px;
   margin:0 25px;
 }
-
+.main-header .headerIconText{
+  max-width: 80%;
+}
 .main-header .info-box .icon-box{
   margin-right: 8px;
   height:30px;
@@ -752,6 +760,10 @@ ul.post-pagination li a {
 }
 .mainmenu-holder .nav-footer {
   margin-left: 20px;
+  position: absolute;
+  opacity: 0;
+  z-index: -50;
+  left: -500%;
 }
 .mainmenu-holder .nav-footer > ul > li {
   position: relative;
@@ -817,6 +829,18 @@ ul.post-pagination li a {
   width: 30px;
   height: 40px;
   margin-right: 5px;
+}
+.mainmenu-holder  .showMenu{
+  display: none;
+  padding: 13px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: "";
+  color: #c20b0d;
+  background: #fff;
+  border: 1px solid #c20b0d;
+  z-index: 50;
 }
 .mainmenu-wrapper .search-box {
   width: 200px;
@@ -5956,15 +5980,21 @@ label.error {
   margin: 5px 20px;
 }
 
+.gallerySection .rev_slider_wrapper .tp-leftarrow,
 .wrapperPartners .rev_slider_wrapper .tp-leftarrow{
-  background:url(images/slider/sliderArrowLeft.png) repeat top left; ;
+  background:url(images/slider/sliderArrowLeft.png) repeat top left;
+  border: none;
 }
+.gallerySection .rev_slider_wrapper .tp-leftarrow:before,
 .wrapperPartners .rev_slider_wrapper .tp-leftarrow:before{
   content: "";
 }
+.gallerySection .rev_slider_wrapper  .tp-rightarrow,
 .wrapperPartners .rev_slider_wrapper  .tp-rightarrow{
-  background:url(images/slider/sliderArrowRight.png) repeat top left; ;
+  background:url(images/slider/sliderArrowRight.png) repeat top left;
+  border: none;
 }
+.gallerySection .rev_slider_wrapper .tp-rightarrow:before,
 .wrapperPartners .rev_slider_wrapper .tp-rightarrow:before{
   content: "";
 }

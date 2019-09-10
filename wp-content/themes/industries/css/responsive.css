@@ -264,10 +264,32 @@
 	.mainmenu-holder .nav-header {
 		/*display: none;*/
 	}
+	.backgroundHeader{
+		display: none;
+	}
+	.mainmenu-holder  .showMenu{
+		display: block;
+	}
+	.mainmenu-holder .nav-header > ul > li {
+		display: block;
+	}
+	.navigation {
+		opacity: 0;
+		left: -500%;
+	}
+	.navigation.opened{
+		display: flex;
+		flex-direction: column;
+		max-width: 250px;
+		background: #fff;
+		align-items: flex-start;
+		justify-content: flex-start;
+		border:1px solid #c20b0d;
+	}
 	.mainmenu-wrapper .container {position: relative;}
 	.mainmenu-holder .nav-footer > ul > li {padding-bottom: 0;}
 	.mainmenu-holder .nav-footer {margin-left: 0;padding: 0 0;}
-	.mainmenu-holder .nav-header {position: absolute;top:100%;left:0;width: 100%;overflow: auto;max-height: 0px;transition-property: all; transition-duration: .5s; transition-timing-function: cubic-bezier(0, 1, 0.5, 1);z-index: 99999999;display: block;}
+	.mainmenu-holder .nav-header {position: absolute;top:100%;left:0;width: 100%;max-height: 0px;transition-property: all; transition-duration: .5s; transition-timing-function: cubic-bezier(0, 1, 0.5, 1);z-index: 99999999;display: block;}
 	.mainmenu-holder .nav-header.closed {max-height: 0;}
 	.mainmenu-holder .nav-header.opened {max-height: 70vh;background: #ba1a20;}
 	.mainmenu-holder .nav-header > ul {padding: 0 15px;}

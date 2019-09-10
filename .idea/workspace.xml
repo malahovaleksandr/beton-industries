@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6d1704b-50ba-4073-bd32-5d2c49e6d1be" name="Default" comment="some changes">
+    <list default="true" id="f6d1704b-50ba-4073-bd32-5d2c49e6d1be" name="Default" comment="added images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/industries/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/industries/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/industries/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/industries/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/industries/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/industries/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/industries/images/slider/sliderArrowLeft.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/industries/images/slider/sliderArrowLeft.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/industries/images/slider/sliderArrowRight.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/industries/images/slider/sliderArrowRight.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/industries/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/industries/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/industries/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/industries/js/custom.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/industries/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/industries/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/wc-logs/geolocation-b1ae323bbad4f6e0d9775a34c2dc17be.log" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/wc-logs/geolocation-b1ae323bbad4f6e0d9775a34c2dc17be.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +47,14 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.HTML" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -119,7 +123,12 @@
       <workItem from="1566554999880" duration="2548000" />
       <workItem from="1566558218712" duration="141000" />
       <workItem from="1566924747077" duration="4734000" />
-      <workItem from="1567318377588" duration="4002000" />
+      <workItem from="1567318377588" duration="8092000" />
+      <workItem from="1567702647715" duration="360000" />
+      <workItem from="1567703033070" duration="437000" />
+      <workItem from="1567703813091" duration="1884000" />
+      <workItem from="1567709252838" duration="193000" />
+      <workItem from="1568130525674" duration="1287000" />
     </task>
     <task id="LOCAL-00001" summary="added images">
       <created>1567319262831</created>
@@ -135,7 +144,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567319388674</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="some changes">
+      <created>1567322860414</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567322860414</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added images">
+      <created>1567322878022</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567322878022</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,9 +178,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added images" />
     <MESSAGE value="some changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="some changes" />
+    <MESSAGE value="added images" />
+    <option name="LAST_COMMIT_MESSAGE" value="added images" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -168,7 +191,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/wp-content/themes/industries/index.php</url>
-          <line>185</line>
+          <line>181</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

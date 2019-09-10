@@ -28,6 +28,9 @@
     <section class="container container-slider">
         <div class="backgroundHeader"></div>
         <nav class="mainmenu-holder">
+            <div class="showMenu">
+                <i class="fa fa-list-ul"></i>
+            </div>
             <div class="nav-header">
                 <ul class="navigation">
                     <?php wp_nav_menu([
@@ -41,13 +44,6 @@
                         'walker' => new Bunch_Bootstrap_walker(),
                     ]); ?>
                 </ul>
-                <div class="nav-footer hidden-lg">
-                    <ul>
-                        <li>
-                            <button class="menu-expander"><i class="fa fa-list-ul"></i></button>
-                        </li>
-                    </ul>
-                </div>
             </div>
         </nav>
         <?= do_shortcode('[rev_slider alias="new2"]'); ?>
