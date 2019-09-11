@@ -1,76 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6d1704b-50ba-4073-bd32-5d2c49e6d1be" name="Default" comment="changed menu for tel">
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/Lato-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/Lato-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/Lato-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/Lato-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/Lato-Hairline.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/Lato-HairlineItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/Lato-Heavy.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/Lato-HeavyItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/Lato-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/Lato-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/Lato-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/Lato-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/Lato-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/Lato-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/Lato-Semibold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/Lato-SemiboldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/Lato-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/Lato-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/Lato2OFL/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/__MACOSX/Lato2OFL/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/__MACOSX/Lato2OFL/._OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/industries/fonts/Lato2OFL/__MACOSX/Lato2OFL/._README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-About/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Chart/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Clients/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Contacts/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Footer/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Header/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Hiring/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Mobile-App/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-News/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Portfolio/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Scroll-To-Top/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Selected-Projects-Title/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Selected-Projects/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Selected-Projects/slide2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Selected-Projects/slide3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Selected-Projects/slide4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Selected-Projects/slide5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Selected-Projects/slide6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Selected-Projects/slide7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Store/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Support/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Team/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Testimonials/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Testimonials/slide2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Testimonials/slide3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Text-Block/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/Corporate-Welcome-Screen/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/geometric-about/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/geometric-footer/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/geometric-grid/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/geometric-hero/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/geometric-lightbox/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/geometric-lightbox/slide2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/geometric-lightbox/slide3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/geometric-lightbox/slide4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/geometric-lightbox/slide5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/geometric-lightbox/slide6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/geometric-menu/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/geometric-services/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/geometric-testimonials/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/geometric-texts-2/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/geometric-texts/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/packages/corporate-website.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/revslider/templates/packages/geometric-website.jpg" afterDir="false" />
+    <list default="true" id="f6d1704b-50ba-4073-bd32-5d2c49e6d1be" name="Default" comment="unknown files for thema">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/industries/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/industries/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/industries/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/industries/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -188,7 +122,8 @@
       <workItem from="1567703033070" duration="437000" />
       <workItem from="1567703813091" duration="1884000" />
       <workItem from="1567709252838" duration="193000" />
-      <workItem from="1568130525674" duration="2238000" />
+      <workItem from="1568130525674" duration="3018000" />
+      <workItem from="1568173691256" duration="794000" />
     </task>
     <task id="LOCAL-00001" summary="added images">
       <created>1567319262831</created>
@@ -225,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568135064295</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="unknown files for thema">
+      <created>1568135773798</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568135773798</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,7 +190,8 @@
     <MESSAGE value="some changes" />
     <MESSAGE value="added images" />
     <MESSAGE value="changed menu for tel" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed menu for tel" />
+    <MESSAGE value="unknown files for thema" />
+    <option name="LAST_COMMIT_MESSAGE" value="unknown files for thema" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

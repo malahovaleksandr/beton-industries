@@ -3,37 +3,27 @@
 	<footer class="footer">
         <div class="wrapperFooter">
             <div class="footerBlock3">
-                <img
-                        src="<?php echo esc_url(get_template_directory_uri() . '/images/footer/image1.png'); ?>"
-                        alt="Преимущества"/>
+                <div class="icon-box"><span class="fa fa-map-marker"></span></div>
                     <div class="headerIconText">
-                        <?php esc_html_e('Адрес :', 'industries'); ?> <?php echo nl2br(wp_kses_post(industries_set($options,
-                            'address'))); ?>
+                        <?php echo nl2br(wp_kses_post(industries_set($options, 'address'))); ?>
                     </div>
             </div>
             <div class="footerBlock3">
-                <img
-                        src="<?php echo esc_url(get_template_directory_uri() . '/images/footer/image2.png'); ?>"
-                        alt="Преимущества"/>
+                <div class="icon-box"><span class="fa fa-phone"></span></div>
                 <div class="headerIconText">
-                     <?php esc_html_e('Телефон :', 'industries'); ?>
                      <a href="tel:<?php echo nl2br(wp_kses_post(industries_set($options, 'phone_no'))); ?> ">
                          <?php echo nl2br(wp_kses_post(industries_set($options, 'phone_no'))); ?>
                      </a>
                     <br>
-                    <?php esc_html_e('Эл. почта :', 'industries'); ?>
                     <a href="mailto:<?php echo balanceTags(industries_set($options,'email')); ?> ">
                         <?php echo balanceTags(industries_set($options,'email')); ?>
                     </a>
                 </div>
             </div>
             <div class="footerBlock3">
-                <img
-                        src="<?php echo esc_url(get_template_directory_uri() . '/images/footer/image3.png'); ?>"
-                        alt="Преимущества"/>
+                <div class="icon-box"><span class="fa fa-clock-o"></span></div>
                 <div class="headerIconText">
-                    <?php esc_html_e('Режим работы :', 'industries'); ?> <?php echo balanceTags(industries_set($options,
-                        'office_time')); ?>
+                    <?php echo balanceTags(industries_set($options, 'office_time')); ?>
                 </div>
             </div>
         </div>
