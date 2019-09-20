@@ -564,9 +564,7 @@ ul.post-pagination li a {
   align-items: center;
 }
 
-.main-header .header-upper .info-box:last-child{
-  margin-right:0px; 
-}
+
 
 .main-header .info-box{
   width:25%;

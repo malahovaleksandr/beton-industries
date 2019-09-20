@@ -29,7 +29,7 @@
     <header class="main-header">
         <div class="header-upper">
             <div class="container">
-                <div class="pull-right upper-right clearfix flexVerticalCenter">
+                <div class=" upper-right clearfix flexVerticalCenter">
                     <div class="logo info-box">
                         <a href="<?php echo esc_url(home_url('/')); ?>"><img
                                     src="<?php echo esc_url(get_template_directory_uri() . '/images/logo/logo.png'); ?>"
